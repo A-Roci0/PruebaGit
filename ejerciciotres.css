@@ -1,0 +1,35 @@
+
+.encabezado{
+    border: 2px solid #00f; 
+    padding: 10px;
+    margin: 30px 0;
+}
+
+.Encabezado2{
+    border: 2px solid #AAA;
+    padding: 5px;
+    margin: 15px 0;
+}
+
+.Encabezado3{
+    border: 2px solid #AAA;
+}
+
+.UL{
+    border: 2px solid #0f0;
+    margin: 10px 0;
+    
+}    
+
+#topi{
+    margin: 15px 0;
+}
+#topi2{
+    margin: 15px 0;
+}#topi3{
+    margin: 15px 0;
+}#topi4{
+    margin: 15px 0;
+}#topi5{
+    margin: 15px 0;
+}
